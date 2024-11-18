@@ -27,5 +27,5 @@ export default [
       "no-undef": "error"
     },
   },
-  eslintPluginPrettierRecommended,
+  eslintPluginPrettierRecommended
 ];
